@@ -1,0 +1,35 @@
+body {
+            font-family: 'Arial', sans-serif;
+            background-image: url("https://newspaperads.ads2publish.com/wp-content/uploads/2020/10/ajio-big-bold-sale-50-90-off-ad-toi-delhi-11-10-2020.png") ;
+            background-repeat:no-repeat;
+			background-attachment:fixed;
+			background-size:100% 100%;
+			
+        }
+
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            max-width: 400px; 
+            margin: 50px auto; 
+        }
+
+        td {
+            padding: 15px;
+            text-align: center;
+        }
+
+        a {
+            text-decoration: none;
+            color: black;
+            font-weight: bold;
+            display: block;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+        }
+
+        a:hover {
+            background-color: green;
+        }
